@@ -1,0 +1,14 @@
+C:\Users\s37534\Repos\PPRG-06\Z07\bin\Debug\net10.0\Z07.exe
+C:\Users\s37534\Repos\PPRG-06\Z07\bin\Debug\net10.0\Z07.deps.json
+C:\Users\s37534\Repos\PPRG-06\Z07\bin\Debug\net10.0\Z07.runtimeconfig.json
+C:\Users\s37534\Repos\PPRG-06\Z07\bin\Debug\net10.0\Z07.dll
+C:\Users\s37534\Repos\PPRG-06\Z07\bin\Debug\net10.0\Z07.pdb
+C:\Users\s37534\Repos\PPRG-06\Z07\obj\Debug\net10.0\Z07.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s37534\Repos\PPRG-06\Z07\obj\Debug\net10.0\Z07.AssemblyInfoInputs.cache
+C:\Users\s37534\Repos\PPRG-06\Z07\obj\Debug\net10.0\Z07.AssemblyInfo.cs
+C:\Users\s37534\Repos\PPRG-06\Z07\obj\Debug\net10.0\Z07.csproj.CoreCompileInputs.cache
+C:\Users\s37534\Repos\PPRG-06\Z07\obj\Debug\net10.0\Z07.dll
+C:\Users\s37534\Repos\PPRG-06\Z07\obj\Debug\net10.0\refint\Z07.dll
+C:\Users\s37534\Repos\PPRG-06\Z07\obj\Debug\net10.0\Z07.pdb
+C:\Users\s37534\Repos\PPRG-06\Z07\obj\Debug\net10.0\Z07.genruntimeconfig.cache
+C:\Users\s37534\Repos\PPRG-06\Z07\obj\Debug\net10.0\ref\Z07.dll
