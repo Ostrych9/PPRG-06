@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\s37534\\Repos\\PPRG-06\\Z02\\Z02.csproj": {}
+    "C:\\Users\\s37534\\Repos\\PPRG-06\\Z02\\Z02.csproj": {}
   },
   "projects": {
-    "c:\\Users\\s37534\\Repos\\PPRG-06\\Z02\\Z02.csproj": {
+    "C:\\Users\\s37534\\Repos\\PPRG-06\\Z02\\Z02.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\s37534\\Repos\\PPRG-06\\Z02\\Z02.csproj",
+        "projectUniqueName": "C:\\Users\\s37534\\Repos\\PPRG-06\\Z02\\Z02.csproj",
         "projectName": "Z02",
-        "projectPath": "c:\\Users\\s37534\\Repos\\PPRG-06\\Z02\\Z02.csproj",
+        "projectPath": "C:\\Users\\s37534\\Repos\\PPRG-06\\Z02\\Z02.csproj",
         "packagesPath": "C:\\Users\\s37534\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\s37534\\Repos\\PPRG-06\\Z02\\obj\\",
+        "outputPath": "C:\\Users\\s37534\\Repos\\PPRG-06\\Z02\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\s37534\\AppData\\Roaming\\NuGet\\NuGet.Config"
